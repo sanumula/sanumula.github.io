@@ -2,6 +2,11 @@ title: Sravan Anumula
 description: My Personal Engineering Wiki
 theme: just-the-docs
 
+# Use remote theme
+remote_theme: pmarsceill/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
 # Personal site → IMPORTANT
 baseurl: ""
 url: "https://sanumula.github.io"
